@@ -1,0 +1,60 @@
+body{
+    font-family: 'Patua One', cursive;
+}
+.blueviolet-color{
+    color: blueviolet;
+}
+
+.section .apura-box{
+    display: flex;
+}
+.flexible-container{
+    display: flex;
+}
+
+.flex{ 
+    height: 400px;
+    padding-bottom: 150px;
+    display: flex;
+}
+.first-pic img{
+    width: 90%;
+    padding-right: 30%;
+    margin-top: 9%;
+}
+
+.mission-three{
+    background-color: cadetblue;
+    padding-right: 50px;
+    width: 250px; 
+    height: 250px;
+}
+
+.apura-box{
+    display: flex;
+    width: 150px;
+    height: 150px;
+    margin-right: 20%;
+    padding: 8%;
+}
+
+.girls img{
+    width: 300px;
+    height: 300px;
+    margin-top: 16%;
+    margin-right: 20%;
+    padding: 8%;
+}
+
+.bhaiara-box{
+    display: flex;
+    width: 300px;
+    height: 300px;
+    margin-top: 9%;
+}
+
+.boys img{
+    width: 300px;
+    height: 300px;
+    padding-left: 90%;
+}
